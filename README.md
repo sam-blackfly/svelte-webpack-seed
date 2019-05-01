@@ -3,7 +3,8 @@ Svelte seed configured with Webpack
 
 ### Using this seed
 
-`npx degit sam-blackfly/svelte-webpack-seed my-project`
+`$ npx degit sam-blackfly/svelte-webpack-seed my-project`
+`$ cd my-project && yarn`
 
 
 ### Webpack configuration include
